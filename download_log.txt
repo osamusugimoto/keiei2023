@@ -1,0 +1,71 @@
+ダウンロード開始：2023/07/09 21:18:52
+
+● https://www.josai.ac.jp/management/introduction から C:\Users\OsamuSugimoto\Desktop\management\introduction へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/campuslife/campus_life から C:\Users\OsamuSugimoto\Desktop\management\campuslife\campus_life へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/faq から C:\Users\OsamuSugimoto\Desktop\management\faq へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/management/curriculum から C:\Users\OsamuSugimoto\Desktop\management\management\curriculum へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/campuslife から C:\Users\OsamuSugimoto\Desktop\management\campuslife へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/campuslife/lifesupport から C:\Users\OsamuSugimoto\Desktop\management\campuslife\lifesupport へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/glocal_management から C:\Users\OsamuSugimoto\Desktop\management\glocal_management へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/management から C:\Users\OsamuSugimoto\Desktop\management\management へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/video から C:\Users\OsamuSugimoto\Desktop\management\video へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/message から C:\Users\OsamuSugimoto\Desktop\management\message へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management から C:\Users\OsamuSugimoto\Desktop\management へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/education から C:\Users\OsamuSugimoto\Desktop\management\education へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/management/sports_management から C:\Users\OsamuSugimoto\Desktop\management\management\sports_management へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/qualification から C:\Users\OsamuSugimoto\Desktop\management\qualification へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/career_support から C:\Users\OsamuSugimoto\Desktop\management\career_support へ
+
+index.html （"[default]" から変更）
+
+● https://www.josai.ac.jp/management/course から C:\Users\OsamuSugimoto\Desktop\management\course へ
+
+index.html （"[default]" から変更）
+
+ダウンロード完了：2023/07/09 21:18:57
+
+ダウンロード予定数：16
+ダウンロード総数：16
+エラーはありませんでした。
